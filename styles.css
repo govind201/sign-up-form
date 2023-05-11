@@ -18,7 +18,7 @@ body {
 
 .side {
   position: relative;
-  background-image: url(/images/background.jpg);
+  background-image: url(./images/background.jpg);
   background-size: cover;
   width: 40vw;
   height: 130vh;
