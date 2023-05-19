@@ -15,7 +15,6 @@ body {
   background-color: #f9fafb;
 }
 
-
 .side {
   position: relative;
   background-image: url(./images/background.jpg);
@@ -59,7 +58,6 @@ body {
 .photo-credit a {
   color: #fff;
 }
-
 
 .form-container {
   flex-grow: 1;
@@ -106,16 +104,16 @@ input {
 input:focus {
   outline: none;
   border: 2px solid #7f9ae5;
-  box-shadow: 1px 1px 2px #bbbbbb ;
+  box-shadow: 1px 1px 2px #bbbbbb;
 }
 
 .form-submit-button button {
   color: #fff;
   font-size: 1.25rem;
   margin: 4rem;
-  background-color: #596D48;
+  background-color: #596d48;
   padding: 1rem 2.75rem;
-  border:none;
+  border: none;
   border-radius: 12px;
   box-shadow: 1px 1px 6px #bbb;
 }
@@ -128,5 +126,5 @@ input:focus {
 
 .login-button {
   text-decoration: none;
-  color: #596D48;
+  color: #596d48;
 }
